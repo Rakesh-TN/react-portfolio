@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.febbdf82.css",
-    "main.js": "/static/js/main.fcab8208.js",
+    "main.js": "/static/js/main.3a0a3039.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/css certificate.jpg": "/static/media/css certificate.5a628aa477fd31d38447.jpg",
     "static/media/HTML.jpg": "/static/media/HTML.935cebfce09524ad9599.jpg",
@@ -13,11 +13,11 @@
     "static/media/React Basics_page-0001.jpg": "/static/media/React Basics_page-0001.02c3bfb4966d8b12a26f.jpg",
     "index.html": "/index.html",
     "main.febbdf82.css.map": "/static/css/main.febbdf82.css.map",
-    "main.fcab8208.js.map": "/static/js/main.fcab8208.js.map",
+    "main.3a0a3039.js.map": "/static/js/main.3a0a3039.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.febbdf82.css",
-    "static/js/main.fcab8208.js"
+    "static/js/main.3a0a3039.js"
   ]
 }
