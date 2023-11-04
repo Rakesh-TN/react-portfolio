@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.febbdf82.css",
+    "main.js": "/static/js/main.fcab8208.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/css certificate.jpg": "/static/media/css certificate.5a628aa477fd31d38447.jpg",
+    "static/media/HTML.jpg": "/static/media/HTML.935cebfce09524ad9599.jpg",
+    "static/media/Front-end-developer.jpg": "/static/media/Front-end-developer.c9fbab7a4793f600e095.jpg",
+    "static/media/Tech Fountion.jpg": "/static/media/Tech Fountion.089a45a53e511917fa55.jpg",
+    "static/media/Rakesh TN Passport Size Photo.jpg": "/static/media/Rakesh TN Passport Size Photo.623359363eb87983112e.jpg",
+    "static/media/Introduction to Mobile Development_page-0001.jpg": "/static/media/Introduction to Mobile Development_page-0001.6fa7fd61aaa128503f3e.jpg",
+    "static/media/Programming with JavaScript_page-0001.jpg": "/static/media/Programming with JavaScript_page-0001.4abb0de1b40da7211543.jpg",
+    "static/media/React Basics_page-0001.jpg": "/static/media/React Basics_page-0001.02c3bfb4966d8b12a26f.jpg",
+    "index.html": "/index.html",
+    "main.febbdf82.css.map": "/static/css/main.febbdf82.css.map",
+    "main.fcab8208.js.map": "/static/js/main.fcab8208.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.febbdf82.css",
+    "static/js/main.fcab8208.js"
+  ]
+}
