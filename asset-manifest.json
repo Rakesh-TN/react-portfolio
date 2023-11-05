@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4903f348.css",
-    "main.js": "/static/js/main.ed977ec0.js",
+    "main.js": "/static/js/main.0ec69e2e.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/css certificate.jpg": "/static/media/css certificate.5a628aa477fd31d38447.jpg",
     "static/media/HTML.jpg": "/static/media/HTML.935cebfce09524ad9599.jpg",
@@ -11,14 +11,14 @@
     "static/media/Introduction to Mobile Development_page-0001.jpg": "/static/media/Introduction to Mobile Development_page-0001.6fa7fd61aaa128503f3e.jpg",
     "static/media/Programming with JavaScript_page-0001.jpg": "/static/media/Programming with JavaScript_page-0001.4abb0de1b40da7211543.jpg",
     "static/media/React Basics_page-0001.jpg": "/static/media/React Basics_page-0001.02c3bfb4966d8b12a26f.jpg",
-    "static/media/Resume of Rakesh TN.pdf": "/static/media/Resume of Rakesh TN.6abf847d6f0ff828dabf.pdf",
+    "static/media/Resume of Rakesh TN.pdf": "/static/media/Resume of Rakesh TN.37c11297a33a25d7c012.pdf",
     "index.html": "/index.html",
     "main.4903f348.css.map": "/static/css/main.4903f348.css.map",
-    "main.ed977ec0.js.map": "/static/js/main.ed977ec0.js.map",
+    "main.0ec69e2e.js.map": "/static/js/main.0ec69e2e.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4903f348.css",
-    "static/js/main.ed977ec0.js"
+    "static/js/main.0ec69e2e.js"
   ]
 }
