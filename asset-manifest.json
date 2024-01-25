@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9fd73360.css",
-    "main.js": "/static/js/main.ede59f01.js",
+    "main.js": "/static/js/main.ea6cc261.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/css certificate.jpg": "/static/media/css certificate.5a628aa477fd31d38447.jpg",
     "static/media/HTML.jpg": "/static/media/HTML.935cebfce09524ad9599.jpg",
@@ -14,11 +14,11 @@
     "static/media/Resume of Rakesh TN.pdf": "/static/media/Resume of Rakesh TN.37c11297a33a25d7c012.pdf",
     "index.html": "/index.html",
     "main.9fd73360.css.map": "/static/css/main.9fd73360.css.map",
-    "main.ede59f01.js.map": "/static/js/main.ede59f01.js.map",
+    "main.ea6cc261.js.map": "/static/js/main.ea6cc261.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fd73360.css",
-    "static/js/main.ede59f01.js"
+    "static/js/main.ea6cc261.js"
   ]
 }
