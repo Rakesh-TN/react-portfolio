@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e052bede.css",
-    "main.js": "/static/js/main.6c50f4e3.js",
+    "main.js": "/static/js/main.0c893d5e.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/css certificate.jpg": "/static/media/css certificate.5a628aa477fd31d38447.jpg",
     "static/media/react basic certificate.jpg": "/static/media/react basic certificate.6557bcede43f5ee31c44.jpg",
@@ -15,11 +15,11 @@
     "static/media/Resume of Rakesh TN.pdf": "/static/media/Resume of Rakesh TN.37c11297a33a25d7c012.pdf",
     "index.html": "/index.html",
     "main.e052bede.css.map": "/static/css/main.e052bede.css.map",
-    "main.6c50f4e3.js.map": "/static/js/main.6c50f4e3.js.map",
+    "main.0c893d5e.js.map": "/static/js/main.0c893d5e.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e052bede.css",
-    "static/js/main.6c50f4e3.js"
+    "static/js/main.0c893d5e.js"
   ]
 }
